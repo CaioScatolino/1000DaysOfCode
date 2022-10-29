@@ -13,3 +13,4 @@
 |Day 4|Oct. 27, 2022| Fineshed Project Php CRUD (PHP, Bootstrap, SQL) | [See Repo](https://github.com/CaioScatolino/crudPHP)|
 |Day 4|Oct. 27, 2022| Update Project Manuais Manutenção (PHP, Bootstrap, SQL) | [See Repo](https://github.com/CaioScatolino/manuaisManutencao)|
 |Day 5|Oct. 28, 2022| Update Project Manuais Manutenção (PHP, Bootstrap, SQL) | [See Repo](https://github.com/CaioScatolino/manuaisManutencao)|
+|Day 6|Oct. 29, 2022| Learning Laravel and Blade Basics (Laravel, PHP, Blade) | [See Repo](https://github.com/CaioScatolino/Aulas-Basicas)|
