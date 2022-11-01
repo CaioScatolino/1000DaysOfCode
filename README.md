@@ -15,4 +15,5 @@
 |Day 5|Oct. 28, 2022| Update Project Manuais Manutenção (PHP, Bootstrap, SQL) | [See Repo](https://github.com/CaioScatolino/manuaisManutencao)|
 |Day 6|Oct. 29, 2022| Learning Laravel and Blade Basics (Laravel, PHP, Blade) | [See Repo](https://github.com/CaioScatolino/Aulas-Basicas)|
 |Day 7|Oct. 30, 2022| Learning Laravel and Blade Basics (Laravel, PHP, Blade) | [See Repo](https://github.com/CaioScatolino/Aulas-Basicas)|
-|Day 7|Oct. 31, 2022| Project Devsbook MVC (PHP, SQL, MVC structure) | [See Repo](https://github.com/CaioScatolino/mvc)|
+|Day 8|Oct. 31, 2022| Project Devsbook MVC (PHP, SQL, MVC structure) | [See Repo](https://github.com/CaioScatolino/mvc)|
+|Day 8|Nov. 01, 2022| Project Devsbook MVC (PHP, SQL, MVC structure) | [See Repo](https://github.com/CaioScatolino/mvc)|
