@@ -21,3 +21,7 @@
 |Day 11|Nov. 03, 2022| Project Devsbook MVC (PHP, SQL, MVC structure) | [See Repo](https://github.com/CaioScatolino/mvc)|
 |Day 12|Nov. 04, 2022| Technical Course in Technologies and Programming of Information Systems - Exercice 1 (HTML, CSS, JS) | [View deploy](https://caioscatolino.github.io/Sem2Ex2/)|
 |Day 13|Nov. 05, 2022| Technical Course in Technologies and Programming of Information Systems - Exercice 2 (HTML, CSS, JS) | [View deploy](https://caioscatolino.github.io/ProgramacaoWEB1Exercicio2/)|
+|Day 14|Nov. 06, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 15|Nov. 07, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 16|Nov. 08, 2022| Technical Course in Technologies and Programming of Information Systems - How to Make a Cake Website (HTML & CSS) | [See Deploy](https://caioscatolino.github.io/Exercicio3/)|
+|Day 17|Nov. 09, 2022| Technical Course in Technologies and Programming of Information Systems - Calculator With Javascript (HTML & CSS & Javascript) | [See Deploy](https://caioscatolino.github.io/CalculadoraJavascript-Ex3/)|
