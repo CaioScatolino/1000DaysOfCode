@@ -25,3 +25,7 @@
 |Day 15|Nov. 07, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 16|Nov. 08, 2022| Technical Course in Technologies and Programming of Information Systems - How to Make a Cake Website (HTML & CSS) | [See Deploy](https://caioscatolino.github.io/Exercicio3/)|
 |Day 17|Nov. 09, 2022| Technical Course in Technologies and Programming of Information Systems - Calculator With Javascript (HTML & CSS & Javascript) | [See Deploy](https://caioscatolino.github.io/CalculadoraJavascript-Ex3/)|
+|Day 18|Nov. 10, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 19|Nov. 11, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 20|Nov. 12, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 21|Nov. 13, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
