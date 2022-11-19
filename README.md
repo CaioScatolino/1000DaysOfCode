@@ -29,3 +29,8 @@
 |Day 19|Nov. 11, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 20|Nov. 12, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 21|Nov. 13, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 22|Nov. 14, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 23|Nov. 15, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 24|Nov. 16, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 25|Nov. 17, 2022| Technical Course in Technologies and Programming of Information Systems - Devsbook - Signup Page (HTML & CSS) | [See Deploy](https://caioscatolino.github.io/formularioDeCadastroSem4ProgramacaoWEB/)|
+|Day 26|Nov. 18, 2022| Technical Course in Technologies and Programming of Information Systems - Multiplication Table (Javascript, HTML & CSS) | [See Deploy](https://caioscatolino.github.io/Ex4Tabuada/)|
