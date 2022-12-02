@@ -37,3 +37,14 @@
 |Day 27|Nov. 19, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 28|Nov. 20, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 29|Nov. 21, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 30|Nov. 22, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 31|Nov. 23, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 32|Nov. 24, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 33|Nov. 25, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 34|Nov. 26, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 35|Nov. 27, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 36|Nov. 28, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 37|Nov. 29, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 38|Nov. 30, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 39|Dec. 01, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+
