@@ -57,14 +57,14 @@
 |Day 46|Dec. 09, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 47|Dec. 10, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 48|Dec. 11, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 49|Dec. 12, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 50|Dec. 13, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 51|Dec. 14, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 52|Dec. 15, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 53|Dec. 16, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 54|Dec. 17, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 55|Dec. 18, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 56|Dec. 19, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
-|Day 57|Dec. 20, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 49|Dec. 12, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 50|Dec. 13, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 51|Dec. 14, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 52|Dec. 15, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 53|Dec. 16, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 54|Dec. 17, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 55|Dec. 18, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 56|Dec. 19, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
+|Day 57|Dec. 20, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript/tree/master/jquery)|
 
 
