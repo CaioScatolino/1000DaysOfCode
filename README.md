@@ -47,4 +47,24 @@
 |Day 37|Nov. 29, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 38|Nov. 30, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
 |Day 39|Dec. 01, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 39|Dec. 02, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 40|Dec. 03, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 41|Dec. 04, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 42|Dec. 05, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 43|Dec. 06, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 44|Dec. 07, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 45|Dec. 08, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 46|Dec. 09, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 47|Dec. 10, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 48|Dec. 11, 2022| Technical Course in Technologies and Programming of Information Systems - Learning Javascript (Javascript) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 49|Dec. 12, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 50|Dec. 13, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 51|Dec. 14, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 52|Dec. 15, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 53|Dec. 16, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 54|Dec. 17, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 55|Dec. 18, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 56|Dec. 19, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+|Day 57|Dec. 20, 2022| Technical Course in Technologies and Programming of Information Systems - Learning JQuery (JQuery) | [See Repo](https://github.com/CaioScatolino/Javascript)|
+
 
